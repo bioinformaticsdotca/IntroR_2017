@@ -15,7 +15,7 @@ home: https://bioinformaticsdotca.github.io/IntroR_2017
 | 8:30 | <font color="purple">Welcome (Ann)</font> |    
 | 9:00 | <font color="purple">Module 1: The R Environment (Boris)</font> |  
 | 10:30 | <font color="green">*Coffee Break*</font> |  
-| 10:30 | <font color="purple">Module 2: Programming Basics </font> |  
+| 11:00 | <font color="purple">Module 2: Programming Basics </font> |  
 | 12:30 | <font color="green">*Lunch*</font> |  
 | 1:30 | <font color="purple">Module 2 Continued </font> |  
 | 3:00 | <font color="green">*Coffee Break*</font> |  

@@ -1,5 +1,5 @@
 ---
-layout: workshop_main_2day
+layout: workshop_main_1day
 permalink: /IntroR_2017
 title: IntroR
 header1: Workshop Pages for Students

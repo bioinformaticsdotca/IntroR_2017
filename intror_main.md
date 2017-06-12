@@ -52,3 +52,10 @@ The most current version of this introductory tutorial *RStudio project* lives a
 9. Type `init() ` into the console pane.  
 
 When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red postIt_ if you have issues.  
+
+***
+
+Thank you for attending the Introduction to R workshop! Help us make this workshop better by filling out [our survey](https://goo.gl/forms/DBOqSOJalNuOhLn52).
+
+***
+

@@ -17,8 +17,6 @@ If you have questions or comments, visit the workshop [Q&A forum](https://noteap
 ***
 
 # Class Photo
-
-Coming soon!
  
 <img src="https://github.com/bioinformaticsdotca/IntroR_2017/blob/master/CBW-June-12.jpeg?raw=true" alt="Class Photo" width="750" />
 
@@ -31,13 +29,9 @@ Coming soon!
 
 *<font color="#827e9c">Ann Meyer</font>*
 
-[Lecture](https://bioinformatics.ca/intror-2017-mod0)
-
 ## Lecture
 
 *<font color="#827e9c">Boris Steipe</font>* 
-
-[Lecture](https://bioinformatics.ca/intror-2017-mod1)  
 
 The most current version of this introductory tutorial *RStudio project* lives at <https://github.com/hyginn/R-Intro>. You will be able to access it there for the forseeable future.  
   

@@ -14,8 +14,6 @@ The course schedule can be found [here](https://bioinformaticsdotca.github.io/in
 
 If you have questions or comments, visit the workshop [Q&A forum](https://noteapp.com/IntroR2017).
 
-[Recording](https://youtu.be/qPkty78cuC8)
-
 ***
 
 # Class Photo
@@ -48,6 +46,8 @@ The most current version of this introductory tutorial *RStudio project* lives a
 9. Type `init() ` into the console pane.  
 
 When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red postIt_ if you have issues.  
+
+[Recording](https://youtu.be/qPkty78cuC8)
 
 ***
 

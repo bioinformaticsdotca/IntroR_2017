@@ -48,6 +48,7 @@ The most current version of this introductory tutorial *RStudio project* lives a
 When you are done, place a _blue postIt_ on the lid of your laptop. Use a _red postIt_ if you have issues.  
 
 [Recording Session 1](https://youtu.be/qPkty78cuC8)
+
 [Recording Session 2](https://youtu.be/rx0weSoLDx0)
 
 ***

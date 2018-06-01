@@ -6,6 +6,7 @@ header1: Workshop Pages for Students
 header2: Introduction to R 2017
 image: /site_images/CBW_introtoR-icon.jpg
 keywords: data handling, scientific computational work, use R syntax, functions and packages
+description: Course covers the bioinformatics tools available for meeting the challenges of data handling and breaking down problems into structured parts using R.
 instructors: Boris Steipe
 length: 1 day
 ---

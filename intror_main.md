@@ -5,6 +5,9 @@ title: IntroR
 header1: Workshop Pages for Students
 header2: Introduction to R 2017
 image: /site_images/CBW_introtoR-icon.jpg
+keywords: data handling, scientific computational work, use R syntax, functions and packages
+instructors: Boris Steipe
+length: 1 day
 ---
 # Welcome <a id="welcome"></a>
 
